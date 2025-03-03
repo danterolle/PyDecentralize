@@ -40,6 +40,10 @@ After starting the client:
 3. You can type any text messages to publish to the network
 4. Type 'exit' to close the application
 
+## Troubleshooting 
+
+You may get the error that the `websocket` module has not been imported even though it is installed. Use `sudo` to run the script.
+
 ## Resources
 
 - [Nostr Protocol](https://github.com/nostr-protocol/nostr)
