@@ -2,10 +2,6 @@
 
 A lightweight, educational client for the Nostr decentralized social network protocol, developed as a project for the **Internet of Things Based Smart Systems** course.
 
-## Overview
-
-PyDecentralize is a minimal Python implementation of a Nostr client that demonstrates the core functionality of the protocol. This project serves as both a learning tool and a foundation for more complex Nostr applications.
-
 ## Features
 
 - Connect to Nostr relays via WebSockets
