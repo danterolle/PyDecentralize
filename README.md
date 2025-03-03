@@ -2,6 +2,8 @@
 
 A lightweight, educational client for the Nostr decentralized social network protocol, developed as a project for the **Internet of Things Based Smart Systems** course.
 
+![PyDecentralize](https://github.com/user-attachments/assets/6cf07a8a-7914-4bbe-a763-46893514cc0b)
+
 ## Features
 
 - Connect to Nostr relays via WebSockets
